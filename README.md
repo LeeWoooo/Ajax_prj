@@ -34,9 +34,9 @@ application이 동작하면 index페이지가 실행되고 index페이지에서 
 
 ## 구현 화면
 
-이미지를 클릭하면 구현 영상을 확인하실 수 있습니다:)
+<Strong>이미지를 클릭하면 구현 영상을 확인하실 수 있습니다:)</strong>
 
-[![ajax](https://i9.ytimg.com/vi/kSbJ-v-TR24/mq1.jpg?sqp=COyd9IAG&rs=AOn4CLCLfKdFI2L6YXkK8UeOg3a-Lj1WNw)](https://www.youtube.com/watch?v=kSbJ-v-TR24&feature=youtu.be)
+[![ajax](https://user-images.githubusercontent.com/74294325/107151562-93cb6480-69a6-11eb-85d4-6a9842ce3159.JPG)](https://www.youtube.com/watch?v=kSbJ-v-TR24&feature=youtu.be)
 
 <Br>
 
